@@ -114,3 +114,24 @@ main{
     
 
 }
+/* what i do style */
+.what-i-do{
+    margin-top: 140px;
+    
+    
+    text-align: center;
+
+
+}
+.section-title{
+    font-weight: 700;
+font-size: 35px;
+color: #181818;
+
+}
+.section-des{
+    margin-top: 30px;
+    /* margin-left: 250px; */
+    /* margin-right: 300px; */
+    margin: auto 200px;
+}
